@@ -1,5 +1,5 @@
 
-# Sentiment Analysis Exercise 1
+# GenAI Exercise 1 : Sentiment Analysis
 
 ## Overview
 This project demonstrates a basic implementation of sentiment analysis using natural language processing (NLP) techniques. The notebook explores data preprocessing, feature extraction, and model evaluation for classifying sentiments in text data.
